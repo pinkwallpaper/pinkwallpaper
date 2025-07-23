@@ -1,5 +1,5 @@
 # Pink Wallpaper AI - Make Your Own Pink Wallpapers — 100% Free!
-htts://www.pinkwallpaper.org
+https://www.pinkwallpaper.org
 A modern web application built with Next.js, Supabase, and Creem, dedicated to creating and sharing beautiful pink-themed wallpapers.
 
 ![Pink Wallpaper Banner](public/og-image.jpg)
